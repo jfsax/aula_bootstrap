@@ -7,11 +7,24 @@ body{
     background-color: #fcd4e4;
 }
 
+.home{
+    background-color: #ffedf4;
+}
+
 .about-us{
-    background-color:pink;
+    background-color: #ffedf4;
     color: #494949;
 }
 
 .margin{
-    padding-bottom: 50px;
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+
+.gallery{
+    background-color: #fadfee;
+}
+
+.bg-footer{
+    background-color: pink;
 }
